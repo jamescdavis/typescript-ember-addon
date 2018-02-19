@@ -25,7 +25,6 @@
   },
   "devDependencies": {
     "@types/ember": "^2.8.13",
-    "@types/ember-data": "^2.14.9",
     "@types/ember-test-helpers": "^0.7.1",
     "@types/ember-testing-helpers": "^0.0.3",
     "@types/rsvp": "^4.0.1",

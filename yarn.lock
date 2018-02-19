@@ -20,12 +20,6 @@
   dependencies:
     "@glimmer/di" "^0.2.0"
 
-"@types/ember-data@^2.14.9":
-  version "2.14.9"
-  resolved "https://registry.yarnpkg.com/@types/ember-data/-/ember-data-2.14.9.tgz#eec43843da95be1fd19ec55227a9c5f6b170e734"
-  dependencies:
-    "@types/rsvp" "*"
-
 "@types/ember-test-helpers@^0.7.1":
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/@types/ember-test-helpers/-/ember-test-helpers-0.7.1.tgz#14b9f132e9c60c2dfaf7a10ace937bfb7157fb26"
