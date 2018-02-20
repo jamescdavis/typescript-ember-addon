@@ -20,7 +20,14 @@
   dependencies:
     "@glimmer/di" "^0.2.0"
 
-"@types/ember-test-helpers@^0.7.1":
+"@types/ember-qunit@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/ember-qunit/-/ember-qunit-3.0.1.tgz#ddf7f25e75eb0a91f18e159369876bf02496dd38"
+  dependencies:
+    "@types/ember" "*"
+    "@types/ember-test-helpers" "*"
+
+"@types/ember-test-helpers@*", "@types/ember-test-helpers@^0.7.1":
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/@types/ember-test-helpers/-/ember-test-helpers-0.7.1.tgz#14b9f132e9c60c2dfaf7a10ace937bfb7157fb26"
   dependencies:
@@ -55,6 +62,10 @@
 "@types/jquery@*":
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.0.tgz#6316ac20a1a13c5d521a2dc661befc7184f73f5b"
+
+"@types/qunit@^2.0.31":
+  version "2.0.31"
+  resolved "https://registry.yarnpkg.com/@types/qunit/-/qunit-2.0.31.tgz#a53e2cf635262c8bf46a71a137d8c7970dde9562"
 
 "@types/rsvp@*", "@types/rsvp@^4.0.1":
   version "4.0.1"
