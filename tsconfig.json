@@ -29,7 +29,9 @@
     }
   },
   "include": [
+    "app",
     "addon",
-    "tests"
+    "tests",
+    "types"
   ]
 }
