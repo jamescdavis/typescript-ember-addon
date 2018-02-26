@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  name: 'typescript-ember-addon'
+  name: 'typescript-ember-addon',
 };
